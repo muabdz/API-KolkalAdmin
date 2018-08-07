@@ -1,0 +1,25 @@
+{
+  "name": "kolkaladmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muabdz/API-KolkalAdmin.git"
+  },
+  "author": "mu'adz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muabdz/API-KolkalAdmin/issues"
+  },
+  "homepage": "https://github.com/muabdz/API-KolkalAdmin#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.3"
+  }
+}
